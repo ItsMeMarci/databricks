@@ -1,2 +1,2 @@
 # projects
-Pet projects made by me.
+Projects made by me for courses or just for practice.
