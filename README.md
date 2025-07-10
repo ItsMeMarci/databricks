@@ -1,2 +1,2 @@
-# projects
-Projects made by me for courses or just for practice.
+# databricks
+Databricks projects made with Spark and Kafka.
